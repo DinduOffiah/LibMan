@@ -1,0 +1,8 @@
+@import 'shared/header.css';
+@import 'shared/footer.css';
+
+body{
+  background-image: url('https://media.istockphoto.com/id/501794256/photo/book-books-piledbooks.jpg?s=612x612&w=0&k=20&c=OJfqQCKCzT2PBUxPEa17DOs3vyaDJzAsmwUkh5LTFyA=');
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,29 @@
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+}
+
+footer .footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer .footer-content p {
+  margin: 0;
+}
+
+footer .footer-content a {
+  color: #fff;
+  text-decoration: none;
+}
+  
+  
