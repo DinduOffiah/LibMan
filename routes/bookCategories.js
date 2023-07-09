@@ -8,3 +8,13 @@ router.get('/', (req, res) => {
 })
 
 module.exports = router;
+
+//GET: bookCategories/create
+router.get('/create', (req, res) => {
+    res.render("bookCategories/create")
+})
+
+//GET: bookCategories/edit
+router.get('/edit', (req, res) => {
+    res.render("bookCategories/edit")
+})
