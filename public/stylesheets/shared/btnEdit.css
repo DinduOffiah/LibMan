@@ -1,0 +1,11 @@
+.btnEdit{
+    border: 3px solid;
+    width: 100px;
+    height: 35px;
+    margin-left: 10%;
+    text-decoration: none;
+    margin-top: 0.4cm;
+    border-color: rgb(97, 97, 211);
+    background-color: white;
+    font-size: 14px;
+}
